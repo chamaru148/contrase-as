@@ -6,5 +6,5 @@ largo = int(input("cuantos caracteres tendra la contraseña: "))
 
 for i in range (largo):
     pasword += r.choice(elemen)
-
+#esto es una prueba
 print(pasword)
